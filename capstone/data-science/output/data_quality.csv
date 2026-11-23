@@ -1,0 +1,16 @@
+metric,value
+total_rows,10000
+closed_rows,8774
+open_rows,503
+in_progress_rows,723
+earliest_created_at,2026-07-01T08:02:04
+latest_created_at,2026-10-28T23:57:46
+date_span_days,119
+missing_id,0
+missing_title,0
+missing_description,0
+missing_category,0
+missing_status,0
+missing_created_at,0
+missing_resolved_at,1226
+missing_resolution_hours,1226
